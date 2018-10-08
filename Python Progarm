@@ -1,0 +1,7 @@
+Class Email:
+def_init_(mail,length,date):
+mail.length='length'
+mail.age='date'
+Five=mail("Five,7)
+Six=mail("Eight,9)
+print("{} is {} and {} is {}.format(Five.length,Five.date,Six.length,Six.date))
